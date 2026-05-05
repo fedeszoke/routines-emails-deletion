@@ -1,4 +1,4 @@
-# Calificación de Leads
+# Calificación de Leads entrantes
 
 ## Clientes que me interesan
 - Empresas medianas (10 a 200 empleados)
